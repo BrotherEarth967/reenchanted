@@ -2,7 +2,7 @@
 
 Ever felt that the Enchantment names felt a bit old or too cryptic? This resource pack provides a fresh coat of paint to them, giving them an RPG-esque feel. See the screenshots and changelogs for examples of how they're changed.
 
-# Localization
+## Localization
 Supports:
 - English (USA)
 - English (UK)
